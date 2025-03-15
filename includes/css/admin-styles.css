@@ -1,0 +1,23 @@
+h1{
+text-align: center;
+    background-color: #E43C85;
+    color: white;
+    margin: auto;
+    padding: 10px;
+}
+.remove-supplierbutton{
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    width: 9%;
+    padding: 3px;
+}
+#add-supplier{
+    margin-top: 25px;
+    width: 14%;
+    background-color: #E43C85;
+    color: white;
+    font-size: 17px;
+    border-color: white;
+    border-radius: 7px;
+}
